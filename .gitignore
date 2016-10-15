@@ -1,0 +1,20 @@
+## Ignore sublime text project files
+*.sublime-project
+*.sublime-workspace
+
+## "Other" directory
+[Oo]ther
+
+# EXE Files
+#*.exe
+
+## Ignore Windows specific files
+# Image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Windows shortcuts
+*.lnk
